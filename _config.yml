@@ -1,9 +1,9 @@
 # Basic
 title: MuYi
 subtitle: 战争即和平，自由即奴役，无知即力量.
-welcome_message: <a href="https://github.com/onevcat/vno-jekyll" target="_blank">Download the theme</a>
+welcome_message: 物来顺应，未来不迎，当时不杂，既过不恋
 description: Java Developer.
-creator: <a href="http://onev.cat">@onevcat</a>
+creator: <a href="https://github.com/handexing">@handx</a>
 
 url: "https://handexing.github.io/#blog"
 
@@ -32,7 +32,7 @@ paginate_path: "page/:num/"
 
 # Comment
 comment:
-    disqus: vno-jekyll
+    disqus: handx
     # duoshuo: 
     
 # Social
