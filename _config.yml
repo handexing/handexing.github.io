@@ -5,7 +5,7 @@ welcome_message: 物来顺应，未来不迎，当时不杂，既过不恋
 description: Java Developer.
 creator: <a href="https://github.com/handexing">@handx</a>
 
-url: "https://handexing.github.io/#blog"
+url: "handexing.github.io/#blog"
 
 permalink: /:year/:month/:title/
 
